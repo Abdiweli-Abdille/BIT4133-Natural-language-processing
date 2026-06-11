@@ -1,0 +1,7 @@
+Flask
+Flask-SQLAlchemy
+Flask-Login
+Werkzeug
+spacy
+PyPDF2
+python-docx
